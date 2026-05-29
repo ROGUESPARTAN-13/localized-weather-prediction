@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🌦 Weather Prediction Project
 
 ## 📌 Project Overview
@@ -382,4 +382,4 @@ streamlit run app/app.py
 **Nikkala Koteswara Rao**
 
 Weather Prediction Project using Machine Learning and Streamlit.
->>>>>>> e51d6dcee7c40e6ada782a615db4b20be7074506
+
