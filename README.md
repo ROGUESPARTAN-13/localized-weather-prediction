@@ -1,4 +1,4 @@
-
+  
 # 🌦 Weather Prediction Project
 
 ## 📌 Project Overview
@@ -379,7 +379,7 @@ streamlit run app/app.py
 
 ## 👨‍💻 Author
 
-**Nikkala Koteswara Rao**
+**CHAKRANTI HEMANTH RAJ KUMAR**
 
 Weather Prediction Project using Machine Learning and Streamlit.
 
